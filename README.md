@@ -1,5 +1,6 @@
 # NBA Stats Dashboard
 
+[Vibe coded]
 An interactive sports statistics dashboard built with Python and Streamlit, pulling live NBA player data via the `nba_api` package and visualising it with Plotly.
 
 > **Portfolio project** — built to demonstrate data engineering and analytics skills: API ingestion, data transformation, and interactive visualisation in a single deployable app.
